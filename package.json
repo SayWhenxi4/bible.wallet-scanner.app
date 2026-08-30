@@ -1,0 +1,6 @@
+{
+  "name": "echochiasm-relay",
+  "version": "82.0.0",
+  "private": true,
+  "description": "Serverless AI gateway for EchoChiasm with task allowlisting, prompt-injection guarding, and layered rate limiting. v81 uses Anthropic as the active cloud provider while keeping the browser/provider contract replaceable."
+}

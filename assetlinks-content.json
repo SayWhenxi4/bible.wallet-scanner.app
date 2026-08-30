@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.wallet_scanner.bible.twa",
+    "sha256_cert_fingerprints": ["1C:7F:BF:C0:13:B9:91:12:38:0E:A9:63:FC:2C:21:C9:C1:54:2B:AB:54:D1:42:E2:90:36:BD:CD:15:9D:AD:19"]
+  }
+}]
